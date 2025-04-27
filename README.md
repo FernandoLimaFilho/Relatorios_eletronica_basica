@@ -11,7 +11,7 @@ Este repositório reúne relatórios práticos desenvolvidos na disciplina de **
 
 - `Curva_do_diodo.ipynb`: Estudo da curva característica de um diodo semicondutor (regiões de condução e bloqueio, tensão de limiar, etc.)
 - `Capacitores.ipynb`: Estudo das curvas de carga e descarga de um capacitor.
-- `Circuitos_combinacionais.ipynb`: Estudo das curvas de carga e descarga de um capacitor.
+- `Circuitos_combinacionais.ipynb`: Código para transformação de números binários em números decimais e vice-versa.
 
 
 ## Objetivo
